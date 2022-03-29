@@ -1,0 +1,34 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Feedback from the JSON API number 1"
+    },
+    {
+      "id": 2,
+      "rating": 5,
+      "text": "Feedback from the JSON API number 2"
+    },
+    {
+      "id": 3,
+      "rating": 7,
+      "text": "Feedback from the JSON API number 3"
+    },
+    {
+      "text": "Testing add feedback to json server",
+      "rating": 3,
+      "id": 4
+    },
+    {
+      "text": "Final test now",
+      "rating": 4,
+      "id": 5
+    },
+    {
+      "text": "hello this is testing disabled works",
+      "rating": 6,
+      "id": 6
+    }
+  ]
+}
